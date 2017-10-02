@@ -47,7 +47,11 @@ body a{
 	/*background: linear-gradient(to bottom,  #f9fc63 7%,#d6f979 23%,#a9f794 43%,#59f0c7 60%,#18ecef 100%,#7db9e8 100%,#04e9fc 100%,#3cedd9 100%); /* W3C */
 	/* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fc63', endColorstr='#3cedd9',GradientType=0 ); IE6-9 8 */
   background-image: url("../images/navi_header.png");
-  background-position-y: 50%;
+  background-size: 100%;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	-ms-background-size: 100%;
 	min-height:720px;
 	text-align:center;
 }
