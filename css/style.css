@@ -46,12 +46,12 @@ body a{
 	/*background: -ms-linear-gradient(top,  #f9fc63 7%,#d6f979 23%,#a9f794 43%,#59f0c7 60%,#18ecef 100%,#7db9e8 100%,#04e9fc 100%,#3cedd9 100%); /* IE10+ */
 	/*background: linear-gradient(to bottom,  #f9fc63 7%,#d6f979 23%,#a9f794 43%,#59f0c7 60%,#18ecef 100%,#7db9e8 100%,#04e9fc 100%,#3cedd9 100%); /* W3C */
 	/* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fc63', endColorstr='#3cedd9',GradientType=0 ); IE6-9 8 */
-  background-image: url("../images/navi_header.png");
+  /*background-image: url("../images/navi_header.png");
   background-size: 100%;
   background-position-y: 50%;
   background-repeat: no-repeat;
 	min-height:720px;
-	text-align:center;
+	text-align:center;*/
 }
 .scroll {
   margin:6em 0 0;
