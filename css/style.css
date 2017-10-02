@@ -48,10 +48,7 @@ body a{
 	/* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fc63', endColorstr='#3cedd9',GradientType=0 ); IE6-9 8 */
   background-image: url("../images/navi_header.png");
   background-size: 100%;
-	-webkit-background-size: 100%;
-	-moz-background-size: 100%;
-	-o-background-size: 100%;
-	-ms-background-size: 100%;
+  background-position-y: 50%;
 	min-height:720px;
 	text-align:center;
 }
