@@ -49,6 +49,7 @@ body a{
   background-image: url("../images/navi_header.png");
   background-size: 100%;
   background-position-y: 50%;
+  background-repeat: no-repeat;
 	min-height:720px;
 	text-align:center;
 }
