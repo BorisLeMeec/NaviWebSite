@@ -13,6 +13,11 @@ html,body{
    font-family: FredokaOne-Regular;
     src: url(../fonts/FredokaOne-Regular.ttf) format('truetype');
 }
+.child-div {
+    position:absolute;
+    left:0;
+    right:0;
+}
 
 body a{
     transition:0.5s all;
