@@ -17,7 +17,12 @@ html,body{
     position:absolute;
     left:0;
     right:0;
-    width:auto;
+}
+
+.header-navi{
+    max-width: 100%;
+    height: auto;
+    width: auto;
 }
 
 body a{
