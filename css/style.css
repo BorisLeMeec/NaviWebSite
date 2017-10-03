@@ -38,7 +38,7 @@ body a{
 }
 .banner{
   
-	background: #f9fc63; /* Old browsers */
+	/*background: #f9fc63;*/ /* Old browsers */
 	/*background: -moz-linear-gradient(top,  #f9fc63 7%, #d6f979 23%, #a9f794 43%, #59f0c7 60%, #18ecef 100%, #7db9e8 100%, #04e9fc 100%, #3cedd9 100%); /* FF3.6+ */
 	/*background: -webkit-gradient(linear, left top, left bottom, color-stop(7%,#f9fc63), color-stop(23%,#d6f979), color-stop(43%,#a9f794), color-stop(60%,#59f0c7), color-stop(100%,#18ecef), color-stop(100%,#7db9e8), color-stop(100%,#04e9fc), color-stop(100%,#3cedd9)); /* Chrome,Safari4+ */
 	/*background: -webkit-linear-gradient(top,  #f9fc63 7%,#d6f979 23%,#a9f794 43%,#59f0c7 60%,#18ecef 100%,#7db9e8 100%,#04e9fc 100%,#3cedd9 100%); /* Chrome10+,Safari5.1+ */
@@ -150,7 +150,7 @@ ul a:focus {
 	opacity: 1;
 }
 .banner-info {
-  margin-top: 40%;
+  margin-top: 0%;
 }
 .banner-info h5 {
   font-size: 1.5em;
